@@ -1,0 +1,4 @@
+I recommend that who ever uses this would pass the ACCESS and CONSUMER keys and secrets in another file because it's a bit 
+insecure to have everything just in one file only. Anyone could simply see this script and know your keys and that's why I 
+am putting this note file here. I also recommend that a developer first checks how many tweets a bot can do per day, because 
+Twitter limits this and if you surpass it then they will revoke you tokens.
